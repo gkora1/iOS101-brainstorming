@@ -15,7 +15,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![brainstorming gif](https://github.com/gkora1/iOS101-brainstorming/assets/115364028/52e60859-06bc-4e69-bfc3-40f0f4b6d840)
+![demo](https://github.com/gkora1/iOS101-brainstorming/assets/115364028/ff40b3c9-ee40-4361-92fc-7bea4f1124d8)
+
 
 ## App Brainstorming (Step 4)
 
