@@ -15,10 +15,21 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![demo](https://github.com/gkora1/iOS101-brainstorming/assets/115364028/ff40b3c9-ee40-4361-92fc-7bea4f1124d8)
 
 
 ## App Brainstorming (Step 4)
+
+Twitter
+ - You can change the background of your screej to dark mode, white and blue.
+ - I also like that you have twitter spaces, where your able to chat wuth other tweeters.
+
+Robinhood
+ - I like that it's very easy to purchase stocks or crypto.
+ - You can see how the live chart is flowing for each stock and crypto.
+
+Apple Wallet
+ - The face scan to ensure that it's you before getting access.
+ - How easy it is to access the cards instead of having to pull out your physical cards.
 
 ## Notes
 
