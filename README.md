@@ -34,6 +34,8 @@ Apple Wallet
  - The face scan to ensure that it's you before getting access.
  - How easy it is to access the cards instead of having to pull out your physical cards.
 
+One app I'll like to create in the future is a Find a Musician for Lessons app. This app would be both iOS and Android, where the user could find musicians in their local area for lessons or a jam session. After the lessons, the users could give feedback about their ratings of the musician and their effectiveness. This app will have a login authentication platform where a backend database system supports it. Once the user logins, they can choose the instrument they want to learn. Once the user selects their instrument, they can choose the kind of instructor based on age, etc. Once the user has made those preferences, they'll see a UImap kit directing them to the different options of musicians based on their preference in their area. After they choose their musician, they can set up an appointment with the appointed musician of their choice.
+
 ## Notes
 
 Describe any challenges encountered while building the app.
