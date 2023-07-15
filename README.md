@@ -1,6 +1,6 @@
 # iOS101 brainstorming
  
-**About Me and Aspirations** is an app that... [TODO] 
+**About Me and Aspirations** My name is Glenn Koranteng, and I am a rising senior at the University of Dayton. I'm very interested in pursuing IOS development and full-stack development after college. I'm also a musician that plays drums and keyboard in my free time. This a simple About Me app where I state my name as a label and future job occupations as an iOS and full stack engineer. I decided to add a UI button with a function of random colors whenever the user clicks the button.
 
 Time spent: **1** hours spent in total
 
@@ -38,7 +38,7 @@ One app I'll like to create in the future is a Find a Musician for Lessons app. 
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+One chalenge I encountered making this app was deploying it to the simulator. The reason why I say this is because of how I'm using a macbook air where the operating system is not running fast. Xcode is also a huge application that take up a lot of space in my storage. I plan on in the future to trade my macbook air in for a pro version with a intel disk. Another difficulty that I faced was having to state the variables and function because of how I come from a python background, I'm used to to just stating the variables without having state it as "let" or "function".
 
 ## License
 
