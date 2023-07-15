@@ -14,6 +14,8 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
+
 ![Kapture 2023-07-15 at 10 54 09](https://github.com/gkora1/iOS101-brainstorming/assets/115364028/2c455e6f-d4ca-4786-86cc-cf6473c5a6ca)
 
 
